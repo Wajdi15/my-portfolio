@@ -13,14 +13,15 @@ const greeting = {
   logo_name: "XVII",
   nickname: "wajdi",
   full_name: "Wajdi Mnasri",
-  subTitle: "Full Stack Developer, Mobile Developer 🔥. Always learning.",
-  resumeLink: "",
+  subTitle: "Web Developer, Mobile Developer 🔥. Always learning.",
+  resumeLink:
+    "https://drive.google.com/file/d/1rmV5XAy6PE2qrNyTyGp37UFtnCr7j0_T/view?usp=sharing",
   mail: "mailto:wajdimn77@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://bitbucket.org/",
+  github: "https://github.com/Wajdi15",
   gmail: "wajdimn77@gmail.com",
   linkedin: "http://linkedin.com/in/wajdi-mnasri-0534511b3",
   twitter: "https://twitter.com/wajdimnasri17",

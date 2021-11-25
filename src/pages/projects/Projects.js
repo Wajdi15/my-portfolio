@@ -22,7 +22,7 @@ function Projects(props) {
     <div className="projects-main">
       <Header theme={theme} setTheme={props.setTheme} />
       <div className="basic-projects">
-        <Fade bottom duration={2000} distance="40px">
+        <Fade  duration={2000} distance="40px">
           <div className="projects-heading-div">
             <div className="projects-heading-img-div">
               <ProjectsImg theme={theme} />
