@@ -13,9 +13,8 @@ const greeting = {
   logo_name: "XVII",
   nickname: "wajdi",
   full_name: "Wajdi Mnasri",
-  subTitle: "Web Developer, Mobile Developer 🔥. Always learning.",
-  resumeLink:
-    "https://drive.google.com/file/d/1rmV5XAy6PE2qrNyTyGp37UFtnCr7j0_T/view?usp=sharing",
+  subTitle: "Web and Mobile Developer 🔥. Always learning.",
+  resumeLink: "cv.pdf",
   mail: "mailto:wajdimn77@gmail.com",
 };
 
@@ -84,13 +83,6 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
         {
           skillName: "React Native",
           fontAwesomeClassname: "simple-icons:react",
@@ -98,13 +90,6 @@ const skills = {
             color: "#02569B",
           },
         },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
 
         {
           skillName: "Git",
